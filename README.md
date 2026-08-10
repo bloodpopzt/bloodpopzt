@@ -2,21 +2,7 @@
   <a href="https://keno.atabook.org">‹ATA›<https://keno.atabook.org"></a>
 </p>
     
-<table border="0">
-  <tr>
-    <td valign="top" width="50%" style="border: none;">
-      <h2>#sự quan tâm</h2>
-      <p><i>kpop,</i></p>
-      <p><i>kdrama,</i></p>
-      <p><i>danmei,</i></p>
-      <p><i>manhua -</i></p>
-      <p><i>manhwa -</i></p>
-    </td>
-    <td align="center" valign="top" width="50%" style="border: none;">
-      <img src=" https://i.postimg.cc/c4H9pqhy/Khong-Co-Tieu-De73-20260810224048.png" alt="Chibi">
-    </td>
-  </tr>
-</table>
+
 
 
 
