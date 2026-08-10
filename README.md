@@ -13,7 +13,7 @@
       <p><i>manhwa -</i></p>
     </td>
     <td align="center" valign="top" width="50%" style="border: none;">
-      <img src=" https://postimg.cc/WhGdtWGV" width="220" alt="Chibi">
+      <img src=" https://i.postimg.cc/c4H9pqhy/Khong-Co-Tieu-De73-20260810224048.png" alt="Chibi">
     </td>
   </tr>
 </table>
