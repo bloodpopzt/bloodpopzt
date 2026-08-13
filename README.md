@@ -13,3 +13,6 @@
   <p align="center">
   <a href="https://keno.atabook.org">‹ATA›<https://keno.atabook.org"></a>
 
+  <p align="center">
+  <a href="https://guns.lol/ast_.8">‹GUN›<https:https://guns.lol/ast_.8"></a>
+
