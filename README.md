@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td valign="top" width="50%" style="border: none;">
-      <h2>#sự quan tâm</h2>
+      <h2>#interest</h2>
       <p><i>comics,</i></p>
       <p><i>cookings,</i></p>
       <p><i>draw,</i></p>
