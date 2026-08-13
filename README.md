@@ -12,8 +12,6 @@
     </td>
     <td align="center" valign="bot" width="50%" style="border: none;">
       <img src="https://i.postimg.cc/zXMKt43y/Khong-Co-Tieu-De71-20260810213236.png" width="800" alt="Chibi">
-    </td>
-  </tr>
-</table>
+    
 
 
