@@ -6,7 +6,17 @@ href="https://tordies.straw.page">straw</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 href="https://zyo.lol/kenodaztt">zyo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a
  ![png]> 
-<img 
+<img <p align="center">
+
+![png](https://i.postimg.cc/wxt9Hs2p/Khong-Co-Tieu-De1107-20261016033114.png) 
+
+![png](https://i.postimg.cc/Qx1sKGRC/Khong-Co-Tieu-De1111-20261016033233.png)
+
+![png](https://i.postimg.cc/vH166Bvk/Khong-Co-Tieu-De1108-20261016031344.png)
+
+![png](https://i.postimg.cc/MHzH3Zkj/Khong-Co-Tieu-De1109-20261016032651.png)
+
+![png](https://i.postimg.cc/8cypyhmN/Khong-Co-Tieu-De1110-20261016032715.png)
 
 
 
